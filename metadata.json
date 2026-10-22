@@ -1,0 +1,6 @@
+{
+  "name": "Khaas Pakistan - E-Commerce & Local Payment Automation",
+  "description": "Localized Pakistani e-commerce platform featuring EasyPaisa, JazzCash, and Bank IBFT checkout, dual automated email notification engine, and multi-stage courier fulfillment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
